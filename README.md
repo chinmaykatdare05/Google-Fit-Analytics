@@ -6,7 +6,7 @@
 
 To get started with this project, follow these steps:
 
-### Obtain Google Fit Data
+### Obtain your Google Fit Data
 
 1. Go to Google Takeout.
 2. Sign in to your Google account.
